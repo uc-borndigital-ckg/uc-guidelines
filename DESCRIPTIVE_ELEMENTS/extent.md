@@ -1,7 +1,7 @@
 # Extent
 
 * DACS: Extent Element 2.5
-* EAD3: Structured Physical Description <physdescstructured>
+* EAD3: Structured Physical Description <physdescstructured>**[11]**
 * ArchivesSpace: Extents
 * MARC: 300
 * ISAD(G): 3.1.5
@@ -18,3 +18,6 @@ HYBRID COLLECTION:
 MULTIPLE EXTENT STATEMENTS FOR A COMPLETELY-DIGITAL COLLECTION:
 * _**Extent: 3750 GB**_
 * _**Extent: 58,439 digital files**_
+
+___
+[11] Though the Extent element (<extent>) has been completely deprecated in EAD3, for the purpose of this document the authors will continue to use the language “Extent” and give that name to the descriptive element outlined here. As descriptive standards change the authors may also change the terminology of this document, but for now the authors will continue to use the terminology that is most widely-shared among the community, which is “Extent.” 
