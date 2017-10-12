@@ -21,8 +21,8 @@ Collections may contain some digital media that cannot be processed. This could 
 If portions of the collection include media that cannot be read or transferred in-house, note that the library cannot provide access to this due to lack of required hardware. You can include the series/box/folder or use the phrase “content includes”, etc. to clarify the scope and contents of the accessible media, if known.
 
 If a collection contains unprocessed born-digital material that will be restricted, note that the material is awaiting processing in the finding aid. Also include, “If interested in viewing this material, please contact the reference desk.”  
-* Ex. **“The library cannot provide access to all media formats in Series 3: Creative Writing due to lack of required hardware. For more information, please contact the reference desk.”**  
-* Ex. **“The library cannot provide access to all media formats in Series 1: Filmmaking due to lack of required hardware. Unprocessed content includes edit decision lists (EDLs) and source media files from a variety of projects spanning 2004-2008. For more information, please contact the reference desk.”**  
+* Ex. **"The library cannot provide access to all media formats in Series 3: Creative Writing due to lack of required hardware. For more information, please contact the reference desk."**  
+* Ex. **"The library cannot provide access to all media formats in Series 1: Filmmaking due to lack of required hardware. Unprocessed content includes edit decision lists (EDLs) and source media files from a variety of projects spanning 2004-2008. For more information, please contact the reference desk."**  
 
 If materials are unprocessed due to other non-technical constraints, note this in Conditions Governing Access rather than in this field. 
 <br/>
