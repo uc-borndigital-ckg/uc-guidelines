@@ -1,4 +1,4 @@
-# Physical Description and Extent
+# Physical Description
 
 * DACS: Extent Element 2.5
 * EAD3: Physical Description <physdesc>
