@@ -6,6 +6,9 @@
 * MARC: 300
 * ISAD(G): 3.1.5
 * RDA: Extent 3.4
+  
+ _See also [Extent](https://github.com/shirapeltzman/uc-guidelines/blob/master/DESCRIPTIVE_ELEMENTS/extent.md)_
+
 
 ### REQUIRED
 Update the Physical Description**[8]** to include units of measure for born-digital material. This should _always_ include (a) the size of the digital material in GB as well as (b) the total number of files that have been preserved. Please use ‘GB’ instead of “Gigabytes”, “Gigabyte”, “Gb”, “GBs”, or any other variations thereof. Consult a digital data storage conversion tool if necessary, such as: http://www.thecalculatorsite.com/conversions/datastorage.php
