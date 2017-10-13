@@ -7,7 +7,7 @@
 * ISAD(G): 3.1.5
 * RDA: Extent, 3.4; File size, 3.19.4
 
-### REQUIRED IF APPLICABLE
+### REQUIRED
 Additionally, record a quantitative measurement of processed digital content in an Extent statement. This measurement should be recorded separately from any Extent statement(s) for physical material. Use parallel Extent statements, if necessary. At minimum, record the extent of digital content in gigabytes (GB). Optionally, add an Extent statement to record the number of digital files.
 
 #### EXAMPLES:
