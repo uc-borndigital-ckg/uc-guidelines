@@ -265,7 +265,7 @@ Bruce Conner Art and Music, digitized 2003 - 2006**
 >>>**Scope and Content Note: Original disc labeled "BC art + music." Digital images of art works produced by Bruce Conner in addition to photographs of the artist. Photographed art works include Chou Rat, We Trussed, and Old Nobodaddy. Also on this disk are Microsoft Word documents and .mp3 files. The Word documents contain comments by Bruce Conner regarding three of his works; Abaddon, Knox, and The Last Supper. The .mp3 files include a recording of a 2005 radio interview conducted by David Platzker for Recorded Matter and several recordings of Bruce Conner and Mel Lyman playing harmonica.**
  
 >>**Digital Folder 4
-BC Art, Scrapbooks, Images and Words, digitized 2004 - 2006 **
+BC Art, Scrapbooks, Images and Words, digitized 2004 - 2006**
 
 >>>**Physical Description: 0.199 GB (141 files)**
  
