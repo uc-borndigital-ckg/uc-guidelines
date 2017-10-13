@@ -11,7 +11,7 @@
 
 
 ### REQUIRED
-Update the Physical Description**[8]** to include units of measure for born-digital material. This should _always_ include (a) the size of the digital material in GB as well as (b) the total number of files that have been preserved. Please use ‘GB’ instead of “Gigabytes”, “Gigabyte”, “Gb”, “GBs”, or any other variations thereof. Consult a digital data storage conversion tool if necessary, such as: http://www.thecalculatorsite.com/conversions/datastorage.php
+Update the Physical Description **[8]** to include units of measure for born-digital material. This should _always_ include (a) the size of the digital material in GB as well as (b) the total number of files that have been preserved. Please use ‘GB’ instead of “Gigabytes”, “Gigabyte”, “Gb”, “GBs”, or any other variations thereof. Consult a digital data storage conversion tool if necessary, such as: http://www.thecalculatorsite.com/conversions/datastorage.php
 
 When calculating size, round to three decimal points only when content is less than 1 GB. If content is smaller than 1 MB, default to “.001 GB”. Otherwise, round to two decimal points (e.g. 9.25 GB).
 
