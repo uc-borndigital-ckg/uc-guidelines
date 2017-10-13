@@ -126,8 +126,7 @@ Papers processed by Dean Smith in 2009-2010. **Digital materials processed by Ni
  
 ### Biographical Information
 “Bruce Conner in twenty-five words or less: Bruce Conner is the best cereal in America.
-Tasty and nutritious. He never gets soggy. He's always crisp.”
-- Richard Brautigan (1975)
+Tasty and nutritious. He never gets soggy. He's always crisp.” ~ Richard Brautigan (1975)
  
 Sculptor, filmmaker, collagist, painter, draftsman, photographer, conceptual prankster, Bruce Conner defined the very qualities of artistic freedom and in doing so boldly defied categorization and mainstream co-option in pursuit of his visionary images and ideas.
  
