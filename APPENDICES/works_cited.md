@@ -11,7 +11,7 @@ Arton, Carla. "So you want to be an Audiovisual Archivist." AMIA Education Commi
 "Encoded Archival Description Tag Library, Version 2002 and Version EAD 3." EAD: Encoded Archival Description,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Library of Congress. <https://www.loc.gov/ead/index.html.>
 
-"Art & Architecture Thesaurus Online." Getty Vocabulary Program, Getty Research Institute. 2017. 
+"Art & Architecture Thesaurus Online." Getty Vocabulary Program, Getty Research Institute. 2017.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<http://www.getty.edu/research/tools/vocabularies/aat/>
 
 Greene, Mark A., and Dennis Meissner. "More Product, Less Process: Revamping Traditional Archival Processing."  
