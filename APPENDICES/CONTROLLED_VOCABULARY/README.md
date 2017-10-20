@@ -4,7 +4,8 @@
 ### Controlled Vocabulary Lightning Team
   >*   Courtney Dean, UC Los Angeles
   >*   Margaret Hughes, UC Los Angeles
-  >*   Kelly Kress, UC Los Angeles  
+  >*   Kelly Kress, UC Los Angeles 
+  >*   Shira Peltzman, UC Los Angeles
   
 ## Background
 The authors of the UC Guidelines for Born-Digital Description were aware of the need for a robust controlled vocabulary for born-digital materials throughout the writing of the guidelines. Born-digital terminology can vary greatly in spelling, term, or phrase, even amongst existing library thesauri. Efforts were already underway at UCLA to standardize term usage within their finding aids. In order to accelerate and leverage this work, the UCLA archivists were deputized to form a Lightning Team and tasked with developing a controlled vocabulary for born-digital source media and related terms.
