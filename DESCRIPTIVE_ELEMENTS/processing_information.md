@@ -42,22 +42,22 @@ If your organization has a policy governing reformatting or normalization, consi
 No two collections are the same. There are a number of factors that may influence processing decisions including, but not limited to, institutional policy, available resources, format of the source media, available contextual information, technological constraints, etc. In certain instances, processors may make choices in order to facilitate access or preservation that, without context or explanation, could impact a researcher’s understanding of the files in a given collection. 
 
 Examples of this could include: 
-* Modifying or cleaning the filenames in any way. 
-* > Ex. "Many of the filenames in this collection were extremely similar [e.g. "Screenplay_Final.docx, Screenplay_Final(1).docx]. To avoid confusion, all original filenames in this collection have been appended with '[-Last Date Modified]' to help researchers distinguish between drafts."
+** Modifying or cleaning the filenames in any way.** 
+*  Ex. "Many of the filenames in this collection were extremely similar [e.g. "Screenplay_Final.docx, Screenplay_Final(1).docx]. To avoid confusion, all original filenames in this collection have been appended with '[-Last Date Modified]' to help researchers distinguish between drafts."
 
-* Altering (or choosing not to alter) the original file structure. 
-* > Ex. "Files have been stored alphabetically by filename in a single directory."
-* > Ex. "The materials have not been arranged beyond file type."
+**Altering (or choosing not to alter) the original file structure.** 
+ *  Ex. "Files have been stored alphabetically by filename in a single directory."
+ *  Ex. "The materials have not been arranged beyond file type."
 
-* Deleting (or choosing not to delete) empty directories, folders, and/or duplicates.
-* >Ex. "Sontag migrated files from one computer to the next; accordingly, duplication and variation in files are common. Files and folders with the same or similar titles may not have exactly the same contents; it is also not uncommon for segments of text to be repeated across files of different names, as many of the file instances are drafts and often build upon one another."
+**Deleting (or choosing not to delete) empty directories, folders, and/or duplicates.**
+* Ex. "Sontag migrated files from one computer to the next; accordingly, duplication and variation in files are common. Files and folders with the same or similar titles may not have exactly the same contents; it is also not uncommon for segments of text to be repeated across files of different names, as many of the file instances are drafts and often build upon one another."
 
-* Changing (or choosing not to change) permissions on files or folders.
-* > Ex. "Content on the "LCROSS" DVD was locked, so a disk image could not be created."
+**Changing (or choosing not to change) permissions on files or folders.**
+* Ex. "Content on the "LCROSS" DVD was locked, so a disk image could not be created."
 
-* Reformatting or normalizing file formats for preservation and/or access.
+**Reformatting or normalizing file formats for preservation and/or access.**
 
-* Any instances where processors have chosen to pursue unique processing methods or procedures that diverge from typical processing policies or protocols. (E.g. the decision to retain both an original set of proprietary file formats as well as normalized versions of those files in anticipation of future emulation-based access strategies.)
+**Any instances where processors have chosen to pursue unique processing methods or procedures that diverge from typical processing policies or protocols. (E.g. the decision to retain both an original set of proprietary file formats as well as normalized versions of those files in anticipation of future emulation-based access strategies.)**
 
 ### RECOMMENDED
 ### Mode of acquisition and/or file capture **[21]**
@@ -125,10 +125,6 @@ Exmaple #4:
 * >The second installment consisted of 3 external hard drives (each 500 GB), 27 DVDs (each 4.7 GB), and 11 Zip disks (each 250 GB) that contained files related to Smith’s charitable work including the non-profit she co-founded, Kids Write Now. Disk images were created of the DVDs using Guymager version 0.8.4; of these disk images, 2 disk images are unable to mount, which is likely due to file corruption inherent to the original media. In addition, 3 of the DVD-ROMs included files that were formatted as “read only”, which prevented us from creating disk images. Disk images of the external hard drives were created using Forensic Toolkit (FTK) version 5.5. Files were extracted from the disk images and were scanned for viruses using either Clam AntiVirus (ClamAV) or Forensic Toolkit (FTK) version 5.5. The files received in this installment constitute their own series, Kids Write Now (“series #3). The original order of these files has been maintained, and the files have not been further arranged.
 >
 * >In all cases, files were ultimately processed and packaged for long-term preservation using Archivematica version 1.5.1. As per UCLA LSC’s processing guidelines, all files were scanned for Personally Identifiable Information (PII) and some information or files have been redacted where appropriate. Files were normalized for preservation and access according to departmental policy. Please note: At the time of processing, UCLA LSC does not have a Zip drive and was therefore unable to image Zip disks. If interested in viewing this material, please contact the reference desk for more information."
-
-
-
-
 
 ___
 [20] Note that information about the processor of the collection should be recorded as described in the “Processor” section of these guidelines, and not in the Processing Information element.
