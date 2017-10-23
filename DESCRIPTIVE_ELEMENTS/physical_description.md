@@ -20,7 +20,7 @@ For unprocessed material where capacity is unknown or difficult to estimate, inc
 In certain cases, processors can also include other units of measure that may help a researcher better gauge or contextualize the amount of digital material present in the collection. This could include, for instance, total runtime or duration (for audiovisual files), total number of disk images, or total number of emails.
 
 #### EXAMPLES:
-* "Physical Description: 3 unprocessed hard drives (100 GB, 3000 GB, and 1000 GB) and 14 unprocessed compact discs."
+* "Physical Description: 3 unprocessed hard drives (100 GB, 3000 GB, and 1000 GB) and 14 unprocessed CDs."
 
 * "Physical Description: 4.5 linear feet (6 oversize boxes, 1 manuscript box), and 3400 GB (37,364 digital files)"
 
