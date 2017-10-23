@@ -42,22 +42,23 @@ If your organization has a policy governing reformatting or normalization, consi
 No two collections are the same. There are a number of factors that may influence processing decisions including, but not limited to, institutional policy, available resources, format of the source media, available contextual information, technological constraints, etc. In certain instances, processors may make choices in order to facilitate access or preservation that, without context or explanation, could impact a researcher’s understanding of the files in a given collection. 
 
 Examples of this could include: 
-** Modifying or cleaning the filenames in any way.** 
+<br/>
+#### Modifying or cleaning the filenames in any way. 
 *  Ex. "Many of the filenames in this collection were extremely similar [e.g. "Screenplay_Final.docx, Screenplay_Final(1).docx]. To avoid confusion, all original filenames in this collection have been appended with '[-Last Date Modified]' to help researchers distinguish between drafts."
 
-**Altering (or choosing not to alter) the original file structure.** 
+#### Altering (or choosing not to alter) the original file structure. 
  *  Ex. "Files have been stored alphabetically by filename in a single directory."
  *  Ex. "The materials have not been arranged beyond file type."
 
-**Deleting (or choosing not to delete) empty directories, folders, and/or duplicates.**
+#### Deleting (or choosing not to delete) empty directories, folders, and/or duplicates.
 * Ex. "Sontag migrated files from one computer to the next; accordingly, duplication and variation in files are common. Files and folders with the same or similar titles may not have exactly the same contents; it is also not uncommon for segments of text to be repeated across files of different names, as many of the file instances are drafts and often build upon one another."
 
-**Changing (or choosing not to change) permissions on files or folders.**
+#### Changing (or choosing not to change) permissions on files or folders.
 * Ex. "Content on the "LCROSS" DVD was locked, so a disk image could not be created."
 
-**Reformatting or normalizing file formats for preservation and/or access.**
+#### Reformatting or normalizing file formats for preservation and/or access.
 
-**Any instances where processors have chosen to pursue unique processing methods or procedures that diverge from typical processing policies or protocols. (E.g. the decision to retain both an original set of proprietary file formats as well as normalized versions of those files in anticipation of future emulation-based access strategies.)**
+#### Any instances where processors have chosen to pursue unique processing methods or procedures that diverge from typical processing policies or protocols. (E.g. the decision to retain both an original set of proprietary file formats as well as normalized versions of those files in anticipation of future emulation-based access strategies.)
 
 ### RECOMMENDED
 ### Mode of acquisition and/or file capture **[21]**
