@@ -20,19 +20,19 @@ For unprocessed material where capacity is unknown or difficult to estimate, inc
 In certain cases, processors can also include other units of measure that may help a researcher better gauge or contextualize the amount of digital material present in the collection. This could include, for instance, total runtime or duration (for audiovisual files), total number of disk images, or total number of emails.
 
 #### EXAMPLES:
-* _“Physical Description: 3 unprocessed hard drives (100 GB, 3000 GB, and 1000 GB) and **14 unprocessed compact discs.”**_
+* "Physical Description: 3 unprocessed hard drives (100 GB, 3000 GB, and 1000 GB) and 14 unprocessed compact discs."
 
-* _“Physical Description: 4.5 linear feet (6 oversize boxes, 1 manuscript box), and **3400 GB (37,364 digital files)**”_
+* "Physical Description: 4.5 linear feet (6 oversize boxes, 1 manuscript box), and 3400 GB (37,364 digital files)"
 
-* _“Physical Description: 13.4 linear feet (26 document boxes, 10 half document boxes, and 1 oversize flat box), and **385 GB (12,938 digital files)**”_
+* "Physical Description: 13.4 linear feet (26 document boxes, 10 half document boxes, and 1 oversize flat box), and 385 GB (12,938 digital files)"
 
-* _“Physical Description: 19.5 linear feet (29 boxes) and **3750 GB (58,439 digital files, including 20,879 WAV files that total approximately 75 hours in duration)**”_
+* "Physical Description: 19.5 linear feet (29 boxes) and 3750 GB (58,439 digital files, including 20,879 WAV files that total approximately 75 hours in duration)"
 
-* _“Physical Description: 109 linear feet (204 boxes) and **985 GB (11,905 digital files, including 17 disk images and 209 digital video files that total approximately 19 hours in duration)**”_
+* "Physical Description: 109 linear feet (204 boxes) and 985 GB (11,905 digital files, including 17 disk images and 209 digital video files that total approximately 19 hours in duration)"
 
-* _“Physical Description: .5 linear feet (1 box) and **113 GB (1,097 WARC files representing periodic crawls of approximately 193 websites)**”_ 
+* "Physical Description: .5 linear feet (1 box) and 113 GB (1,097 WARC files representing periodic crawls of approximately 193 websites)" 
 
-* _“Physical Description: 17 linear feet (25 boxes) and **.011 GB (31 digital files)**”_
+* "Physical Description: 17 linear feet (25 boxes) and .011 GB (31 digital files)"
 
 ___
 [8] “Physical Description” is used here to mean a brief narrative summary noting the type and number of containers present, their physical attributes and/or dimensions, or other information related to their size, shape, or appearance. Please note that “Physical Description” and “Extent” actually map to two separate EAD3 elements: <physdesc> and <physdescstructured>. These two elements are independent of each other, and are differentiated in order to record different kinds of information about physical description. See https://www.loc.gov/ead/EAD3taglib/index.html#elem-physdesc and https://www.loc.gov/ead/EAD3taglib/index.html#elem-physdescstructured 
