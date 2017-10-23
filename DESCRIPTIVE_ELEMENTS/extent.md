@@ -14,12 +14,12 @@ Additionally, record a quantitative measurement of processed digital content in 
 
 #### EXAMPLES:
 HYBRID COLLECTION:
-* _**Extent: 109 linear feet**_
-* _**Extent: 985 GB**_
+* Extent: 109 linear feet
+* Extent: 985 GB
 
 MULTIPLE EXTENT STATEMENTS FOR A COMPLETELY-DIGITAL COLLECTION:
-* _**Extent: 3750 GB**_
-* _**Extent: 58,439 digital files**_
+* Extent: 3750 GB
+* Extent: 58,439 digital files
 
 ___
-[11] Though the Extent element (<extent>) has been completely deprecated in EAD3, for the purpose of this document the authors will continue to use the language “Extent” and give that name to the descriptive element outlined here. As descriptive standards change the authors may also change the terminology of this document, but for now the authors will continue to use the terminology that is most widely-shared among the community, which is “Extent.” 
+[11] Though the Extent element (<extent>) has been completely deprecated in EAD3, for the purpose of this document the authors will continue to use the language "Extent" and give that name to the descriptive element outlined here. As descriptive standards change the authors may also change the terminology of this document, but for now the authors will continue to use the terminology that is most widely-shared among the community, which is "Extent." 
