@@ -7,7 +7,7 @@
 * ISAD(G): 3.7.1
 * RDA: N/A
 
-### REQUIRED
+### REQUIRED (see below)
 The Processing Information section is one of the most important aspects of any finding aid that describes born-digital materials. Decisions made during processing can greatly affect who, what, where, when, why and how researchers access and understand the digital material within a given collection. In particular, processing legacy born-digital material can often involve changing the nature of the data to make it preservable and accessible: this may include migrating to different file formats, redacting or removing Personally Identifiable Information (PII), extracting files, or normalizing filenames. It is essential that this information be recorded to ensure that future archivists and users understand where the materials came from, how they were created, and the process by which they are able to access the materials.**[20]**
 
 For the cases in which libraries are not able to make born-digital materials accessible, even after preserving content, this section will also allow users to understand access limitations of old file formats or hardware. It is essential that organizations include information in their finding aids about some of the key preservation actions and techniques employed during processing. 
