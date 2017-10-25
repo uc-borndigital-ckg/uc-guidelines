@@ -27,15 +27,15 @@ If the files have been arranged by the processor into a folder structure, be sur
 Please note that there is potential for overlap between this field and the “Processing Information” field. Duplication may not be avoidable, but whereas “Processing Information” provides as complete a record as possible of the actions undertaken on the material, both before and after its arrival at the archive, “Arrangement” relates to recording decisions on arrangement only and to explaining what the arrangement (or perhaps more accurately the level of processing) is so that its impact on the material can be assessed.
 
 #### EXAMPLES:
-* >**"Born-digital materials are integrated into their corresponding series based on content. The original order of the files has been retained."**
+* >"Born-digital materials are integrated into their corresponding series based on content. The original order of the files has been retained."
 
-* >**"Collection is arranged into series: Correspondence, which includes Strickland’s emails; Writings, including Strickland's projects, collaborations, essays, publications, and writings by others; Education and Academia; Miscellany; and Audiovisual."**
+* >"Collection is arranged into series: Correspondence, which includes Strickland’s emails; Writings, including Strickland's projects, collaborations, essays, publications, and writings by others; Education and Academia; Miscellany; and Audiovisual."
 
-* >**"Ávila’s digital material has been arranged into two series: Photography, which includes various versions of image files she created for her 1994 exhibition, “Present Past”, and Writings, which includes drafts of artists statements, art criticism, and essays. In each series the files have been arranged into a single directory and are organized alphabetically by filename."**
+* >"Ávila’s digital material has been arranged into two series: Photography, which includes various versions of image files she created for her 1994 exhibition, “Present Past”, and Writings, which includes drafts of artists statements, art criticism, and essays. In each series the files have been arranged into a single directory and are organized alphabetically by filename."
 
-* >**"The original structure, naming, and contents of the material have been maintained. Sontag migrated files from one computer to the next; accordingly, duplication and variation in files are common. Files and folders with the same or similar titles may not have exactly the same contents; it is also not uncommon for segments of text to be repeated across files of different names, as many of the file instances are drafts and often build upon one another."** 
+* >"The original structure, naming, and contents of the material have been maintained. Sontag migrated files from one computer to the next; accordingly, duplication and variation in files are common. Files and folders with the same or similar titles may not have exactly the same contents; it is also not uncommon for segments of text to be repeated across files of different names, as many of the file instances are drafts and often build upon one another."
 
-* >**"Digital materials have been placed into the 'writings' series based on their content. No other changes have been made to the original arrangement, structure, or naming of the files."**
+* >"Digital materials have been placed into the 'writings' series based on their content. No other changes have been made to the original arrangement, structure, or naming of the files."
 
 ___
 [19] The majority of this section was taken verbatim from 3.3.4 (“System of Arrangement”) in the “Best Guess Guidelines for Cataloguing Born Digital Material.” Descriptive Standards Roundtable, 2016. http://www.archives.org.uk/images/Data_Standards/Best_Guess_Guidelines_v1.0_160325.pdf
