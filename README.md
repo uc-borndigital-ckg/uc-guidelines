@@ -14,6 +14,7 @@ The UC Guidelines for Born-Digital Archival Description was created in 2017 unde
   >*   Courtney Dean, UC Los Angeles
   >*   Margaret Hughes, UC Los Angeles
   >*   Kelly Kress, UC Los Angeles  
+  >*   Shira Peltzman, UC Los Angeles  
 
 <br />
 
