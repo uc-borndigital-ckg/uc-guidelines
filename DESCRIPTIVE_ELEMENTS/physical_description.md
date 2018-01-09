@@ -1,4 +1,4 @@
-# Physical Description
+﻿# Physical Description
 
 * DACS: Extent Element 2.5
 * EAD3: Physical Description <physdesc>
@@ -30,7 +30,7 @@ In certain cases, processors can also include other units of measure that may he
 
 * "Physical Description: 109 linear feet (204 boxes) and 985 GB (11,905 digital files, including 17 disk images and 209 digital video files that total approximately 19 hours in duration)"
 
-* "Physical Description: .5 linear feet (1 box) and 113 GB (1,097 WARC files representing periodic crawls of approximately 193 websites)" 
+* "Physical Description: .5 linear feet (1 box) and 113 GB (1,097 WARC files representing periodic crawls of approximately 193 web sites)" 
 
 * "Physical Description: 17 linear feet (25 boxes) and .011 GB (31 digital files)"
 
