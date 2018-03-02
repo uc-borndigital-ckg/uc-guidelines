@@ -30,5 +30,10 @@ The UC Guidelines for Born-Digital Archival Description version 1.0 was passed a
 The site includes the full text of version 1.0 of the UC-wide descriptive standard.
 <br />
 
+The UC Guidelines for Born-Digital Archival Description have been preserved and made permanently accessible in [eScholarship](https://escholarship.org/), a service of the [California Digital Library](https://www.cdlib.org/) that provides scholarly publishing and repository services for the Univeristy of California community. The permalink to this paper series can be found here: https://escholarship.org/uc/item/9cg222jc
+
+## Suggested Citation
+University of California Systemwide Libraries. (2017). _UC Guidelines for Born-Digital Archival Description. UC Office of the President: University of California Systemwide Libraries._ Retrieved from https://escholarship.org/uc/item/9cg222jc
+
 ## License
 The UC Guidelines for Born-Digital Archival Description are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
