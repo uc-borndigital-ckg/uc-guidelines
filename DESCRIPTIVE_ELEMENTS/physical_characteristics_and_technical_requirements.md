@@ -32,7 +32,7 @@ All files have external dependencies including the format into which a file has 
 * Ex. **"Please note that the library is not able to provide access to the donor’s scheduling software, Movie Magic, due to lack of required software. If interested in viewing this material, please contact the reference desk for more information."**  
 ### Special instructsions for viewing digital material
 If the procedure for requesting access to digital material differs in any way from the procedure for requesting paper-based collections, it is important to include this information in the finding aid.
-* Ex. **"If the procedure for requesting access to digital material differs in any way from the procedure for requesting paper-based collections, it is important to include this information in the finding aid."** 
+* Ex. **"Access to digital materials is available on-site in the Special Collections reading room. Requests to access born-digital materials must be made at least 2 days in advance. Once request has been made, please confirm viewing arrangements with Special Collections reference desk staff."** 
 
 <br/>
 
